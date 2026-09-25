@@ -1,0 +1,12 @@
+import pandas as pd 
+df=pd.read_csv('response for employee data.csv')
+print(df)
+print(df.head())
+print(df.tail())
+print(df.columns)
+print(df.shape)
+print(df.info())
+print(df.describe())
+print(df["Name"])
+print(df.loc[0])
+print(df["Age"] > 10)

@@ -1,0 +1,16 @@
+Customer_ID,Name,Balance,Loan,City
+C001,Ravi,250000,300000,Vijayawada
+C002,Suresh,750000,650000,Guntur
+C003,Priya,125000,200000,Visakhapatnam
+C004,Anjali,950000,800000,Rajahmundry
+C005,Kiran,450000,550000,Tirupati
+C006,Lakshmi,180000,100000,Nellore
+C007,Arjun,1200000,900000,Vijayawada
+C008,Divya,350000,450000,Guntur
+C009,Naveen,600000,750000,Kakinada
+C010,Swathi,90000,150000,Visakhapatnam
+C011,Mahesh,850000,400000,Rajahmundry
+C012,Kavya,320000,650000,Tirupati
+C013,Ramesh,1500000,1200000,Kurnool
+C014,Sneha,275000,350000,Nellore
+C015,Vamsi,680000,550000,Kakinada
